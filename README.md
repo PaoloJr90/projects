@@ -1,11 +1,13 @@
 # projects
+
 1. Personal Website
 2. Build a NodeJS and ExpressJS API that handles CRUD operations on images gathered from NASA's APOD (Astronomy Picture of the Day) API. The image needs to open a new tab/window in the browser.
     - Create a front-end for users to "login" and get images from NASA's API or other details from the database.
 3. Snake Game in JS
 4. App (snowfall with Google Maps/Google Earth integration) including NASA World Wind: https://worldwind.arc.nasa.gov/
 
-other practice:
+## other practice:
+
 Freecodecamp: https://www.freecodecamp.org/news/javascript-projects-for-beginners/
 Build calculator app: https://www.freecodecamp.org/news/javascript-dom-build-a-calculator-app
 Number guessing game: [Number Guessing Game | Javascript Beginner Project Tutorial](https://www.youtube.com/watch?v=2cQUkYU8AmI)
