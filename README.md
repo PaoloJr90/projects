@@ -36,3 +36,9 @@ Databases & Authentication:
 Logging:
 
 - [axiom](https://axiom.co/)
+
+Icons:
+- [Font Awesome](https://fontawesome.com/)
+- [Icon Generator](https://realfavicongenerator.net/)
+
+[Markup Validator](https://validator.w3.org/)
