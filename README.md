@@ -32,6 +32,7 @@ Web-hosting:
 Databases & Authentication:
 
 - [supabase](https://supabase.com/) <br>
+- [Mockaroo - Dummy Data](https://mockaroo.com/)
 
 Logging:
 
@@ -40,5 +41,6 @@ Logging:
 Icons:
 - [Font Awesome](https://fontawesome.com/)
 - [Icon Generator](https://realfavicongenerator.net/)
+
 
 [Markup Validator](https://validator.w3.org/)
