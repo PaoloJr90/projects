@@ -10,19 +10,21 @@
 
 <br>
 
+---
 ## more practice ☀️🌙
 
 - [freecodecamp projects for beginners](https://www.freecodecamp.org/news/javascript-projects-for-beginners/)
 - [Number Guessing Game in JS](https://www.youtube.com/watch?v=2cQUkYU8AmI)
 - [5 Projects You Can Build In A Week](https://www.youtube.com/watch?v=oluY633rkgI)
 - [Programming Puzzles](https://medium.com/techie-delight/top-25-programming-puzzles-and-brain-teasers-dac17b41e94a)
-- [Dark Mode Help](https://livecodestream.dev/post/a-better-approach-to-dark-mode-on-your-website/)
-- [Dark Mode Help #2](https://www.geeksforgeeks.org/how-to-make-dark-mode-for-websites-using-html-css-javascript/)
 - [React Native projects](https://livecodestream.dev/post/10-amazing-react-native-project-ideas/)
+- [CSS Games](https://dev.to/devmount/8-games-to-learn-css-the-fun-way-4e0f)
 - [Python projects](https://livecodestream.dev/post/10-crazy-cool-project-ideas-for-python-developers/)
+- [Frontend Mentor](https://www.frontendmentor.io/)
 
 <br>
 
+---
 ## resources for projects/practice 📃 <br>
 
 Web-hosting/Deployment:
@@ -45,3 +47,11 @@ Icons:
 
 
 [Markup Validator](https://validator.w3.org/)
+
+---
+
+## articles worth reading 🗞️
+- [Dark Mode Help](https://livecodestream.dev/post/a-better-approach-to-dark-mode-on-your-website/)
+- [Dark Mode Help #2](https://www.geeksforgeeks.org/how-to-make-dark-mode-for-websites-using-html-css-javascript/)
+- [Responsive Web Design](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design)
+
