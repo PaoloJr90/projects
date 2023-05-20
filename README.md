@@ -32,12 +32,16 @@ Web-hosting/Deployment:
 - [Vercel](https://vercel.com/) <br>
 - [railway](https://dataschool.com/learn-sql/how-to-export-data-to-csv-or-excel/)
 
-Databases & Authentication:
+Cybersecurity: 🦺
+
+- [JavaScript Security](https://www.youtube.com/watch?v=ypNKKYUJE5o)
+
+Databases & Authentication: 🧑‍🚀
 
 - [supabase](https://supabase.com/) <br>
 - [Mockaroo - Dummy Data](https://mockaroo.com/)
 
-Logging:
+Logging: 🧻
 
 - [axiom](https://axiom.co/)
 
