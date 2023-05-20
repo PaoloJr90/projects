@@ -25,9 +25,10 @@
 
 ## resources for projects/practice 📃 <br>
 
-Web-hosting:
+Web-hosting/Deployment:
 
 - [Vercel](https://vercel.com/) <br>
+- [railway](https://dataschool.com/learn-sql/how-to-export-data-to-csv-or-excel/)
 
 Databases & Authentication:
 
