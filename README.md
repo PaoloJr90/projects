@@ -32,6 +32,8 @@ Web-hosting/Deployment:
 - [Vercel](https://vercel.com/) <br>
 - [railway](https://dataschool.com/learn-sql/how-to-export-data-to-csv-or-excel/)
 - [fly.io](https://fly.io/)
+- [Google Cloud Platform](https://console.cloud.google.com/)
+- [Microsoft Azure](https://azure.microsoft.com/en-us/)
 
 Cybersecurity: 🦺
 
