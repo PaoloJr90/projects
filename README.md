@@ -27,7 +27,7 @@
 ---
 ## resources for projects/practice 📃 <br>
 
-Web-hosting/Deployment:
+Web-hosting/Deployment: 🕸️
 
 - [Vercel](https://vercel.com/) <br>
 - [railway](https://dataschool.com/learn-sql/how-to-export-data-to-csv-or-excel/)
@@ -35,9 +35,9 @@ Web-hosting/Deployment:
 - [Google Cloud Platform](https://console.cloud.google.com/)
 - [Microsoft Azure](https://azure.microsoft.com/en-us/)
 
-Cybersecurity: 🦺
+REST APIs: 🧑‍💻
 
-- [JavaScript Security](https://www.youtube.com/watch?v=ypNKKYUJE5o)
+- [Mockoon](https://mockoon.com/)
 
 Databases & Authentication: 🧑‍🚀
 
@@ -47,6 +47,10 @@ Databases & Authentication: 🧑‍🚀
 Logging: 🧻
 
 - [axiom](https://axiom.co/)
+
+Cybersecurity: 🦺
+
+- [JavaScript Security](https://www.youtube.com/watch?v=ypNKKYUJE5o)
 
 Icons:
 - [Font Awesome](https://fontawesome.com/)
