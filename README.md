@@ -35,8 +35,8 @@ Web-hosting/Deployment: 🕸️
 - [Google Cloud Platform](https://console.cloud.google.com/)
 - [Microsoft Azure](https://azure.microsoft.com/en-us/)
 
-REST APIs: 🧑‍💻
-
+APIs: 🧑‍💻
+- [Public APIs](https://publicapis.dev/)
 - [Mockoon](https://mockoon.com/)
 
 Databases & Authentication: 🧑‍🚀
@@ -52,9 +52,15 @@ Cybersecurity: 🦺
 
 - [JavaScript Security](https://www.youtube.com/watch?v=ypNKKYUJE5o)
 
-Icons:
+Icons & Colors:
 - [Font Awesome](https://fontawesome.com/)
 - [Icon Generator](https://realfavicongenerator.net/)
+- [Icones](https://icones.js.org/)
+- [Color Hunt](https://colorhunt.co/)
+
+Front-End: 📄
+- [Lorem Ipsum](https://www.lipsum.com/)
+- [Lorem Picsum](https://picsum.photos/)
 
 
 [Markup Validator](https://validator.w3.org/)
