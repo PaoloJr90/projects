@@ -1,6 +1,6 @@
 ## projects portfolio ideas 🌳
 
-1. Personal Website --> using [GitHub Pages](https://pages.github.com/) or [Linktree](https://linktr.ee/)
+1. Personal Website --> using [GitHub Pages](https://pages.github.com/) or [LinkFree](https://linkfree.io/)
 2. Build a NodeJS and ExpressJS API that handles CRUD operations on images gathered from NASA's APOD (Astronomy Picture of the Day) API. The image needs to open a new tab/window in the browser.
    - Create a front-end for users to "login" and get images from NASA's API or other details from the database.
 3. [Calculator App (freecodecamp)](https://www.freecodecamp.org/news/javascript-dom-build-a-calculator-app)
