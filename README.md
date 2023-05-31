@@ -7,6 +7,7 @@
 4. [Snake Game in JS](https://www.freecodecamp.org/news/how-to-build-a-snake-game-in-javascript/)
 5. YouTube/Soundcloud to Spotify Playlist --> could use [Unofficial NPM](https://www.npmjs.com/package/youtube-music-api) or other APIs
 6. App (snowfall with Google Maps/Google Earth integration) including [NASA World Wind](https://worldwind.arc.nasa.gov/)
+7. [Open-source projects](https://goodfirstissue.dev/)
 
 <br>
 
@@ -61,9 +62,7 @@ Icons & Colors:
 Front-End: 📄
 - [Lorem Ipsum](https://www.lipsum.com/)
 - [Lorem Picsum](https://picsum.photos/)
-
-
-[Markup Validator](https://validator.w3.org/)
+- [Markup Validator](https://validator.w3.org/)
 
 ---
 
