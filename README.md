@@ -9,9 +9,8 @@
 6. App (snowfall with Google Maps/Google Earth integration) including [NASA World Wind](https://worldwind.arc.nasa.gov/)
 7. [Open-source projects](https://goodfirstissue.dev/)
 
-<br>
-
 ---
+
 ## more practice ☀️🌙
 
 - [freecodecamp projects for beginners](https://www.freecodecamp.org/news/javascript-projects-for-beginners/)
@@ -23,12 +22,34 @@
 - [Python projects](https://livecodestream.dev/post/10-crazy-cool-project-ideas-for-python-developers/)
 - [Frontend Mentor](https://www.frontendmentor.io/)
 
-<br>
+## articles worth reading 🗞️
+- [Developer Roadmaps](https://roadmap.sh/)
+- [Dark Mode Help](https://livecodestream.dev/post/a-better-approach-to-dark-mode-on-your-website/)
+- [Dark Mode Help #2](https://www.geeksforgeeks.org/how-to-make-dark-mode-for-websites-using-html-css-javascript/)
+- [Responsive Web Design](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design)
+- [GitHub Profile ReadMe Updates](https://www.sitepoint.com/github-profile-readme/)
+- [Jest Test Suite](https://codewithhugo.com/run-skip-single-jest-test/)
+
+## developer job boards 🧑‍💻 
+- [we are developers](https://www.wearedevelopers.com/)
+- [we work remotely](https://weworkremotely.com/)
+- [remote ok](https://remoteok.com/)
+- [dev remote](https://devremote.io/)
+- [remote front-end](https://www.remotefrontendjobs.com/)
+- [lemon.io](https://lemon.io/)
+- [jobs in JS](https://jobsinjs.com/)
+- [4-day-week](https://4dayweek.io/)
+
+## bug-bounty programs 🪲
+- [Google Bug Hunters](https://bughunters.google.com/)
+- [HackerOne](https://bughunters.google.com/)
+- [bugcrowd](https://www.bugcrowd.com/bug-bounty-list/)
 
 ---
+
 ## resources for projects/practice 📃 <br>
 
-Web-hosting/Deployment: 🕸️
+Web-hosting/Deployment 🕸️
 
 - [Vercel](https://vercel.com/) <br>
 - [railway](https://dataschool.com/learn-sql/how-to-export-data-to-csv-or-excel/)
@@ -36,39 +57,42 @@ Web-hosting/Deployment: 🕸️
 - [Google Cloud Platform](https://console.cloud.google.com/)
 - [Microsoft Azure](https://azure.microsoft.com/en-us/)
 
-APIs: 🧑‍💻
+APIs ⚙️
 - [Public APIs](https://publicapis.dev/)
 - [Mockoon](https://mockoon.com/)
 
-Databases & Authentication: 🧑‍🚀
+Databases & Authentication 🔎
 
 - [supabase](https://supabase.com/) <br>
 - [Mockaroo - Dummy Data](https://mockaroo.com/)
 
-Logging: 🧻
+Logging 🧻
 
 - [axiom](https://axiom.co/)
 
-Cybersecurity: 🦺
+Cybersecurity 🦺
 
 - [JavaScript Security](https://www.youtube.com/watch?v=ypNKKYUJE5o)
 
-Icons & Colors:
+Icons & Colors
 - [Font Awesome](https://fontawesome.com/)
 - [Icon Generator](https://realfavicongenerator.net/)
 - [Icones](https://icones.js.org/)
 - [Color Hunt](https://colorhunt.co/)
 
-Front-End: 📄
+Front-End 📄
 - [Lorem Ipsum](https://www.lipsum.com/)
 - [Lorem Picsum](https://picsum.photos/)
 - [Markup Validator](https://validator.w3.org/)
 
+Other Tools 🔮
+- [NPM Trends](https://npmtrends.com/)
+- [RegEx 101](https://regex101.com/)
+- [iHateRegEx](https://ihateregex.io/)
+- [Big-O-CheatSheet](https://www.bigocheatsheet.com/)
+- [cron expressions](https://crontab.guru/)
+- [You Get Signal](https://www.yougetsignal.com/)
+- [Graph Calculator](https://www.desmos.com/)
+
+
 ---
-
-## articles worth reading 🗞️
-- [Dark Mode Help](https://livecodestream.dev/post/a-better-approach-to-dark-mode-on-your-website/)
-- [Dark Mode Help #2](https://www.geeksforgeeks.org/how-to-make-dark-mode-for-websites-using-html-css-javascript/)
-- [Responsive Web Design](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design)
-- [GitHub Profile ReadMe Updates](https://www.sitepoint.com/github-profile-readme/)
-
