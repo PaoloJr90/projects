@@ -10,8 +10,8 @@
 7. [Open-source projects](https://goodfirstissue.dev/)
 
 ---
-
-## more practice ☀️🌙
+<details>
+   <summary><b> more practice ☀️🌙 </b></summary>
 
 - [freecodecamp projects for beginners](https://www.freecodecamp.org/news/javascript-projects-for-beginners/)
 - [Number Guessing Game in JS](https://www.youtube.com/watch?v=2cQUkYU8AmI)
@@ -21,6 +21,7 @@
 - [CSS Games](https://dev.to/devmount/8-games-to-learn-css-the-fun-way-4e0f)
 - [Python projects](https://livecodestream.dev/post/10-crazy-cool-project-ideas-for-python-developers/)
 - [Frontend Mentor](https://www.frontendmentor.io/)
+   </details>
 
 ## articles worth reading 🗞️
 - [Developer Roadmaps](https://roadmap.sh/)
@@ -53,7 +54,7 @@
 - [bugcrowd](https://www.bugcrowd.com/bug-bounty-list/)
 
 ---
-#### resources for projects/practice📃 
+## resources for projects/practice📃 
 
    <details>
    <summary> Web-hosting & Deployment 🕸️ </summary> 
