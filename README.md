@@ -29,6 +29,7 @@
 - [Responsive Web Design](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design)
 - [GitHub Profile ReadMe Updates](https://www.sitepoint.com/github-profile-readme/)
 - [Jest Test Suite](https://codewithhugo.com/run-skip-single-jest-test/)
+- [PostgreSQL: export to .CSV](https://dataschool.com/learn-sql/how-to-export-data-to-csv-or-excel/)
 
 ## developer job boards 🧑‍💻 
 - [we are developers](https://www.wearedevelopers.com/)
@@ -40,59 +41,87 @@
 - [jobs in JS](https://jobsinjs.com/)
 - [4-day-week](https://4dayweek.io/)
 
+## developer communities 🌳
+- [CodeNewbie](https://community.codenewbie.org/)
+- [Indie Hackers](https://www.indiehackers.com/)
+- [Hashnode](https://hashnode.com/) 
+
 ## bug-bounty programs 🪲
 - [Google Bug Hunters](https://bughunters.google.com/)
 - [HackerOne](https://bughunters.google.com/)
 - [bugcrowd](https://www.bugcrowd.com/bug-bounty-list/)
 
 ---
+#### resources for projects/practice📃 
 
-## resources for projects/practice 📃 <br>
+   <details>
+   <summary> Web-hosting & Deployment 🕸️ </summary> 
+   <br>
+      <li> <a href="https://vercel.com/">Vercel</a> </li>
+      <li> <a href="https://railway.app/">railway</a> </li>
+      <li> <a href="https://fly.io/">fly.io</a> </li>
+      <li> <a href="https://console.cloud.google.com">Google Cloud Platform</a> </li>
+      <li> <a href="https://azure.microsoft.com/en-us">Microsoft Azure</a> </li>
+   </details>
 
-Web-hosting/Deployment 🕸️
+   <details>
+   <summary> APIs ⚙️ </summary>
+   <br>
 
-- [Vercel](https://vercel.com/) <br>
-- [railway](https://dataschool.com/learn-sql/how-to-export-data-to-csv-or-excel/)
-- [fly.io](https://fly.io/)
-- [Google Cloud Platform](https://console.cloud.google.com/)
-- [Microsoft Azure](https://azure.microsoft.com/en-us/)
+      <li> <a href="https://publicapis.dev/">Public APIs</a> </li>
+      <li> <a href="https://mockoon.com/">Mockoon</a> </li>
+   </details>
 
-APIs ⚙️
-- [Public APIs](https://publicapis.dev/)
-- [Mockoon](https://mockoon.com/)
+   <details>
+   <summary> Databases & Authentication 🔎 </summary>
+   <br>
 
-Databases & Authentication 🔎
+      <li> <a href="https://supabase.com/">supabase</a> </li>
+      <li> <a href="https://mockaroo.com">Mockaroo</a> </li>
+   </details>
+   
+   <details>
+   <summary> Logging 🧻 </summary>
+   <br>
 
-- [supabase](https://supabase.com/) <br>
-- [Mockaroo - Dummy Data](https://mockaroo.com/)
+      <li> <a href="https://axiom.co/">axiom</a> </li>
+   </details>
 
-Logging 🧻
+   <details>
+   <summary> Cybersecurity 🦺 </summary>
+   <br>
 
-- [axiom](https://axiom.co/)
+      <li> <a href="https://www.youtube.com/watch?v=ypNKKYUJE5o">JavaScript Security</a> </li>
+   </details>
 
-Cybersecurity 🦺
+   <details>
+    <summary> Front-End 📄 </summary>
+   <br>
+      <li> <a href="https://www.lipsum.com">Lorem Ipsum</a> </li>
+      <li> <a href="https://picsum.photos">Lorem Picsum</a> </li>
+      <li> <a href="https://validator.w3.org/">Markup Validator</a> </li>
+   
+   <details>
+   <summary> Icons & Colors 🟥 🟩 🟦 </summary>
+   <br>
 
-- [JavaScript Security](https://www.youtube.com/watch?v=ypNKKYUJE5o)
-
-Icons & Colors
-- [Font Awesome](https://fontawesome.com/)
-- [Icon Generator](https://realfavicongenerator.net/)
-- [Icones](https://icones.js.org/)
-- [Color Hunt](https://colorhunt.co/)
-
-Front-End 📄
-- [Lorem Ipsum](https://www.lipsum.com/)
-- [Lorem Picsum](https://picsum.photos/)
-- [Markup Validator](https://validator.w3.org/)
-
-Other Tools 🔮
-- [NPM Trends](https://npmtrends.com/)
-- [RegEx 101](https://regex101.com/)
-- [iHateRegEx](https://ihateregex.io/)
-- [Big-O-CheatSheet](https://www.bigocheatsheet.com/)
-- [cron expressions](https://crontab.guru/)
-- [You Get Signal](https://www.yougetsignal.com/)
-- [Graph Calculator](https://www.desmos.com/)
-
+      <li> <a href="https://fontawesome.com/">Font Awesome</a> </li>
+      <li> <a href="https://realfavicongenerator.net">Icon Generator</a> </li>
+      <li> <a href="https://icones.js.org">Icones</a> </li>
+      <li> <a href="https://colorhunt.co/">Color Hunt</a> </li>
+   </details>
+   </details>
+   
+   <details>
+   <summary> Other Tools 🔮</summary>
+   <br>
+      <li> <a href="https://npmtrends.com/">NPM Trends</a></li>
+      <li> <a href="https://regex101.com">RegEx 101</a></li>
+      <li> <a href="https://ihateregex.io/">iHateRegEx</a></li>
+      <li> <a href="https://www.bigocheatsheet.com/">Big-O-CheatSheet</a> </li>
+      <li> <a href="https://crontab.guru/">cron expressions</a></li>
+      <li> <a href="https://www.yougetsignal.com/">You Get Signal</a></li>
+      <li> <a href="https://www.desmos.com/">Graph Calculator</a></li>
+   </details>
 
 ---
