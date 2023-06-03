@@ -4,9 +4,9 @@
 2. Build a NodeJS and ExpressJS API that handles CRUD operations on images gathered from NASA's APOD (Astronomy Picture of the Day) API. The image needs to open a new tab/window in the browser.
    - Create a front-end for users to "login" and get images from NASA's API or other details from the database.
 3. [Calculator App (freecodecamp)](https://www.freecodecamp.org/news/javascript-dom-build-a-calculator-app)
-4. [Snake Game in JS](https://www.freecodecamp.org/news/how-to-build-a-snake-game-in-javascript/)
-5. Build a simple Strava-like application on Azure/GCP.
-6. YouTube/Soundcloud to Spotify Playlist --> could use [Unofficial NPM](https://www.npmjs.com/package/youtube-music-api) or other APIs.
+4. [Sudoku Game](https://youtu.be/xpsm3tOLTVE) ---> [Sudoku Solver](https://youtu.be/F1vKV8fR1Os)
+5. [Snake Game in JS](https://www.freecodecamp.org/news/how-to-build-a-snake-game-in-javascript/)
+6. Build a simple Strava-like application on Azure/GCP.
 7. App (snowfall with Google Maps/Google Earth integration) including [NASA World Wind](https://worldwind.arc.nasa.gov/)
 8. [Open-source projects](https://goodfirstissue.dev/)
 
