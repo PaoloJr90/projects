@@ -100,7 +100,7 @@
    <details>
     <summary> Front-End 📄 </summary>
    <br>
-      <li> <a href="https://www.xml-sitemaps.com">XML Sitemap for SEO</a> <li>
+      <li> <a href="https://www.xml-sitemaps.com">XML Sitemap for SEO</a> </li>
       <li> <a href="https://answerthepublic.com">Keywords Search Tool</a> </li>
       <li> <a href="https://www.brokenlinkcheck.com">Broken-Link Checking Tool</a> </li>
       <li> <a href="https://search.google.com/search-console/welcome">Google Search Console</a> </li>
