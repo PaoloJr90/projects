@@ -100,6 +100,11 @@
    <details>
     <summary> Front-End 📄 </summary>
    <br>
+      <li> <a href="https://www.xml-sitemaps.com">XML Sitemap for SEO</a> <li>
+      <li> <a href="https://answerthepublic.com">Keywords Search Tool</a> </li>
+      <li> <a href="https://www.brokenlinkcheck.com">Broken-Link Checking Tool</a> </li>
+      <li> <a href="https://search.google.com/search-console/welcome">Google Search Console</a> </li>
+      <li> <a href="https://marketingplatform.google.com/about/analytics">Google Analytics</a> </li>
       <li> <a href="https://www.lipsum.com">Lorem Ipsum</a> </li>
       <li> <a href="https://picsum.photos">Lorem Picsum</a> </li>
       <li> <a href="https://validator.w3.org/">Markup Validator</a> </li>
