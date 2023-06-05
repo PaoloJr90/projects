@@ -66,6 +66,12 @@
       <li> <a href="https://console.cloud.google.com">Google Cloud Platform</a> </li>
       <li> <a href="https://azure.microsoft.com/en-us">Microsoft Azure</a> </li>
    </details>
+   
+   <details>
+   <summary> Performance 🎩 </summary>
+   <br>
+   <li> <a href="https://webassembly.org/">WebAssembly</a> </li>
+   </details>
 
    <details>
    <summary> APIs ⚙️ </summary>
