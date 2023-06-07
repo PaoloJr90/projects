@@ -118,7 +118,6 @@
    <details>
    <summary> Icons & Colors 🟥 🟩 🟦 </summary>
    <br>
-
       <li> <a href="https://fontawesome.com/">Font Awesome</a> </li>
       <li> <a href="https://realfavicongenerator.net">Icon Generator</a> </li>
       <li> <a href="https://icones.js.org">Icones</a> </li>
