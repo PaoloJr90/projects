@@ -116,6 +116,15 @@
       <li> <a href="https://validator.w3.org/">Markup Validator</a> </li>
    
    <details>
+      <summary> Accessibility 🦿 </summary>
+   <br>
+      <li> <a href="https://webaim.org/resources/contrastchecker/">Contrast Checker</a> </li>
+      <li> <a href="https://www.funkify.org/#:~:text=Funkify%20is%20an%20extension%20for,welcome%20you%20to%20our%20site">Funkify</a> </li>
+      <li> <a href="https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en">Lighthouse</a> </li>
+      <li> <a href="https://udacity.github.io/ud891/lesson3-semantics-built-in/02-chromevox-lite/">Chromevox Lite</a> </li>
+   </details>
+      
+   <details>
    <summary> Icons & Colors 🟥 🟩 🟦 </summary>
    <br>
       <li> <a href="https://fontawesome.com/">Font Awesome</a> </li>
