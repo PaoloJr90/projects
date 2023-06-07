@@ -19,15 +19,15 @@
    <details>
    <summary> APIs ⚙️ </summary>
    <br>
-
       <li> <a href="https://publicapis.dev/">Public APIs</a> </li>
       <li> <a href="https://mockoon.com/">Mockoon</a> </li>
+      <li> <a href="https://www.openapis.org/">OpenAPI</a> </li>
+      <li> <a href="https://swagger.io/">Swagger</a> </li>
    </details>
 
    <details>
    <summary> Databases & Authentication 🔎 </summary>
    <br>
-
       <li> <a href="https://supabase.com/">supabase</a> </li>
       <li> <a href="https://mockaroo.com">Mockaroo</a> </li>
    </details>
@@ -35,15 +35,14 @@
    <details>
    <summary> Logging 🧻 </summary>
    <br>
-
       <li> <a href="https://axiom.co/">axiom</a> </li>
    </details>
 
    <details>
    <summary> Cybersecurity 🦺 </summary>
    <br>
-
       <li> <a href="https://www.youtube.com/watch?v=ypNKKYUJE5o">JavaScript Security</a> </li>
+      <li> <a href="https://www.virustotal.com/gui/home/url">VirusTotal</a> </li>
    </details>
 
    <details>
@@ -85,7 +84,8 @@
       <li> <a href="https://ihateregex.io/">iHateRegEx</a></li>
       <li> <a href="https://www.bigocheatsheet.com/">Big-O-CheatSheet</a> </li>
       <li> <a href="https://crontab.guru/">cron expressions</a></li>
-      <li> <a href="https://www.yougetsignal.com/">You Get Signal</a></li>
+      <li> <a href="https://www.yougetsignal.com/">yougetsignal</a></li>
+      <li> <a href="https://www.whatismyip.com/">WhatIsMyIP</a></li>
       <li> <a href="https://www.desmos.com/">Graph Calculator</a></li>
    </details>
 
