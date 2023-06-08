@@ -3,9 +3,10 @@
    <details>
    <summary> Web-hosting & Deployment 🕸️ </summary> 
    <br>
-      <li> <a href="https://vercel.com/">Vercel</a> </li>
       <li> <a href="https://railway.app/">railway</a> </li>
       <li> <a href="https://fly.io/">fly.io</a> </li>
+      <li> <a href="https://www.netlify.com/">netlify</a> </li>
+      <li> <a href="https://vercel.com/">Vercel</a> </li>
       <li> <a href="https://console.cloud.google.com">Google Cloud Platform</a> </li>
       <li> <a href="https://azure.microsoft.com/en-us">Microsoft Azure</a> </li>
    </details>
