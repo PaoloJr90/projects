@@ -80,6 +80,7 @@
    <details>
    <summary> Other Tools 🔮</summary>
    <br>
+      <li> <a href="https://babeljs.io/">Babel</a></li>
       <li> <a href="https://npmtrends.com/">NPM Trends</a></li>
       <li> <a href="https://regex101.com">RegEx 101</a></li>
       <li> <a href="https://ihateregex.io/">iHateRegEx</a></li>
