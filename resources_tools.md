@@ -102,6 +102,7 @@
 - [lemon.io](https://lemon.io/)
 - [jobs in JS](https://jobsinjs.com/)
 - [4-day-week](https://4dayweek.io/)
+- [working nomads](https://www.workingnomads.com/jobs)
 
 ---
 
