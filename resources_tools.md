@@ -65,6 +65,7 @@
    <br>
       <li> <a href="https://supabase.com/">supabase</a> </li>
       <li> <a href="https://mockaroo.com">Mockaroo</a> </li>
+      <li> <a href="https://www.passportjs.org/">PassportJS</a></li>
    </details>
    
    <details>
