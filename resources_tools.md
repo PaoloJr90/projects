@@ -47,6 +47,14 @@
       <li> <a href="https://icones.js.org">Icones</a> </li>
       <li> <a href="https://colorhunt.co/">Color Hunt</a> </li>
    </details>
+
+   <li>
+   <details>
+   <summary> Images 🖼️ </summary>
+   <br>
+      <li> <a href="https://imgur.com/">Imgur</a> </li>
+      <li> <a href="https://www.remove.bg/">removebg</a> </li>
+   </details>
    </details>
     </li>
     </ul>
@@ -92,6 +100,9 @@
       <summary> Other Tools 🔮</summary>
    <br>
       <li> <a href="https://babeljs.io/repl">Babel REPL</a></li>
+      <li> <a href="https://transform.tools/">transform tools</a></li>
+      <li> <a href="https://www.developertools.tech/">developer tools</a></li>
+      <li> <a href="https://convertio.co/">file converter</a></li>
       <li> <a href="https://npmtrends.com/">NPM Trends</a></li>
       <li> <a href="https://regex101.com">RegEx 101</a></li>
       <li> <a href="https://ihateregex.io/">iHateRegEx</a></li>
