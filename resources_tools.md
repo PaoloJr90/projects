@@ -15,6 +15,7 @@
    <summary> Front-End 📄 </summary>
    <br>
       <li> <a href="https://react.dev/">react.dev</a> </li>
+      <li> <a href="https://vitejs.dev//">Vite</a> </li>
       <li> <a href="https://create-react-app.dev/">create-react-app</a> </li>
       <li> <a href="https://www.xml-sitemaps.com">XML Sitemap for SEO</a> </li>
       <li> <a href="https://answerthepublic.com">Keywords Search Tool</a> </li>
