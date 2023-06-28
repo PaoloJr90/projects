@@ -24,11 +24,7 @@
 ## articles worth reading 🗞️
 - [Developer Roadmaps](https://roadmap.sh/)
 - [JavaScript Interview Prep](https://www.freecodecamp.org/news/javascript-interview-prep-cheatsheet/)
-- [Dark Mode Help](https://livecodestream.dev/post/a-better-approach-to-dark-mode-on-your-website/)
-- [Dark Mode Help #2](https://www.geeksforgeeks.org/how-to-make-dark-mode-for-websites-using-html-css-javascript/)
 - [Responsive Web Design](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design)
-- [GitHub Profile ReadMe Updates](https://www.sitepoint.com/github-profile-readme/)
 - [Jest Test Suite Help](https://codewithhugo.com/run-skip-single-jest-test/)
-- [PostgreSQL: export to .CSV](https://dataschool.com/learn-sql/how-to-export-data-to-csv-or-excel/)
 
 ---
