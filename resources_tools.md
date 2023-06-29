@@ -40,8 +40,9 @@
 
    <li>
    <details>
-   <summary> Icons & Colors 🟥 🟩 🟦 </summary>
+   <summary> Icons, Fonts & Colors 🟥 🟩 🟦 </summary>
    <br>
+      <li> <a href="https://fonts.google.com/">Google Fonts & Icons</a> </li>
       <li> <a href="https://fontawesome.com/">Font Awesome</a> </li>
       <li> <a href="https://realfavicongenerator.net">Icon Generator</a> </li>
       <li> <a href="https://icones.js.org">Icones</a> </li>
