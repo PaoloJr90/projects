@@ -9,12 +9,12 @@ function App() {
     <div className="App">
       <Navbar />
       <Container maxWidth="xl" sx={{ marginTop: 4 }}>
-        <Grid container>
-          <Grid item>
+        <Grid container spacing={5}>
+          <Grid item xs={12} md={6}>
             <SliderSelect />
             <AmortizationSelect />
           </Grid>
-          <Grid item>
+          <Grid item xs={12} md={6}>
             <Result />
           </Grid>
         </Grid>
