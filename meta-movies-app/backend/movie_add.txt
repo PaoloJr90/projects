@@ -1,0 +1,11 @@
+{
+    "movieName": "Star Wars: Episode VIII - The Last Jedi",
+    "imgURL": "https://static.metacritic.com/images/products/movies/7/886af5a18f3e5d38779237beb76cc42a-250h.jpg",
+    "releaseYear": 2017,
+    "summary": "Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares to do battle with the First Order.",
+    "director": "Rian Johnson",
+    "genre": "Fantasy",
+    "rating": "PG-13",
+    "movieRuntime": 152,
+    "metaScore": 84
+}
