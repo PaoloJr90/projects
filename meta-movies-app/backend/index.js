@@ -77,7 +77,8 @@ app.post("/add-movie", (req, res) => {
     })
     .then(() => {
       console.log("Movie Added");
-      return res.json({ msg: "Movie Added" });
+      // return res.json({ msg: "Movie Added" });
+      return res.redirect("http://localhost:3000");
     })
     .catch((err) => {
       console.log(err);
