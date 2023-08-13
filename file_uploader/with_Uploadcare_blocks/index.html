@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>File Uploader</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div id="app">
+      <h1>Awesome Uploadcare Blocks 🦄</h1>
+
+      <lr-file-uploader-inline
+        css-src="https://cdn.jsdelivr.net/npm/@uploadcare/blocks@0.25.1/web/lr-file-uploader-regular.min.css"
+        ctx-name="my-uploader"
+      >
+      </lr-file-uploader-inline>
+
+      <lr-config ctx-name="my-uploader" pubkey="{YOUR_PUBLIC_KEY}"></lr-config>
+    </div>
+
+    <script type="module">
+      import * as LR from "https://cdn.jsdelivr.net/npm/@uploadcare/blocks@0.25.1/web/blocks.min.js";
+
+      LR.registerBlocks(LR);
+    </script>
+  </body>
+</html>
